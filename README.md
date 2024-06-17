@@ -36,7 +36,7 @@ Hyper-parameters can be setted in `option.py`
 
 All you need to do is to execute code below to train:
 ```
-python main.py 
+python main.py --pseudo_samples 50
 ```
 
 In `Server.py`, `Line 153` can controll the global epochs for each task.
