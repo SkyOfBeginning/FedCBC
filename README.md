@@ -1,4 +1,4 @@
-# FedCGC PyTorch Implementation
+# FedCBC PyTorch Implementation
 
 This repository contains PyTorch implementation code.
 
